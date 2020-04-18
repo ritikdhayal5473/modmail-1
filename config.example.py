@@ -23,7 +23,7 @@ sentry_url = ""
 testing = True
 
 # The default prefix for commands
-default_prefix = "="
+default_prefix = "=
 
 # Status of the bot
 activity = [
